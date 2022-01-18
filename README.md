@@ -57,18 +57,23 @@ Since the boost give you +1 sale point per level you will instantly get your 25 
 The 5 insanity boosts are the following:
 
 Gem
+
 ![cos gem](/docs/assets/images/cos gem.png)
 
 Kappa
+
 ![cos kappa](/docs/assets/images/cos kappa.png)
 
 Mega
+
 ![cos mega](/docs/assets/images/cos mega.png)
 
 PogChamp
+
 ![cos pogchamp](/docs/assets/images/cos pogchamp.png)
 
 Madness
+
 ![cos madness](/docs/assets/images/cos madness.png)
 
 When you have all 5 you will get 1 of each resource, 1 million gems and **5 sale points** every time your account level goes up.
