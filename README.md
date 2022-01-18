@@ -58,23 +58,23 @@ The 5 insanity boosts are the following:
 
 Gem
 
-![cos gem](/docs/assets/images/cos%20gem.png)
+![cosgem](/docs/assets/images/cosgem.png)
 
 Kappa
 
-![cos kappa](/docs/assets/images/cos%20kappa.png)
+![coskappa](/docs/assets/images/coskappa.png)
 
 Mega
 
-![cos mega](/docs/assets/images/cos%20mega.png)
+![cosmega](/docs/assets/images/cosmega.png)
 
 PogChamp
 
-![cos pogchamp](/docs/assets/images/cos%20pogchamp.png)
+![cospogchamp](/docs/assets/images/cospogchamp.png)
 
 Madness
 
-![cos madness](/docs/assets/images/cos%20madness.png)
+![cosmadness](/docs/assets/images/cosmadness.png)
 
 When you have all 5 you will get 1 of each resource, 1 million gems and **5 sale points** every time your account level goes up.
 
