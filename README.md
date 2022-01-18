@@ -1,6 +1,6 @@
 # Best way to start earning (only spend $1)
 
-To get a good start in Clash of Streamers without spending a lot of money you need to understand how **sale points** work.
+To get a good start in Clash of Streamers without spending a lot of money you need to understand how **sale points** work. 
 
 Sale points gives you a discount when you make a purchase using them. 1 sale point gives you a 4% discount so if you have 25 of them you get a **100%** discount (which means you get the deal for **FREE**). 
 
@@ -14,7 +14,7 @@ If you are about to use your sale points you will see the precentage above the b
 
 ![cos80](/docs/assets/images/cos80.png)
 
-The first thing you want to do is to disable the use of sale points so you don't use them by mistake. You do this by holding down the button untill the percentage disappears and you see the higher price.
+The first thing you want to do is to disable the use of sale points so you don't use them by mistake. You do this by holding down the button until the percentage disappears and you see the higher price.
 
 ![switch](/docs/assets/images/switch.gif)
 
@@ -40,6 +40,49 @@ This boost gives you a lot of gems, kappa scrolls and strong heroes, which are v
 
 Now all you do is play the game normaly and get more account levels. Every month remember to buy a new golden boos with the previous 25 sale points, remember to NOT use the sale points for anything other. Only the golden boost! Else you have to buy the golden boost with cash which is like $10 to get 25 new sale points.
 
-**Continue to do this every month until you get close to account level 25.**
+**Continue to do this every month until you get close to account level 25. Then you can proceed with the next part**
 
 # Late game - account level 25+
+
+Here is where you start making the money!
+
+In the game there is 5 different insanity boosts which all give you an extra resource AND +1 sale point for **every** account level. These have to be bought in a specific order so you can only see one of them at a time in the shop.
+
+The easiest way to find this boost is to look at the top deals in our community and look for a boost clsoe to the top with a name starting with "Insanity". The first one you can buy is "Insanity Gem Boost". To switch to the community list, just click on the head to the right and make sure you have "Deals" in the bottom right corner.
+
+![cos6](/docs/assets/images/cos6.png)
+
+Since the boost give you +1 sale point per level you will instantly get your 25 sale points back after you buy it for free using 25 sale points when you are account level 25. This means that you can instantly buy all the other insanity boosts also and still hae 25 sale points in the end that you can use to renew your Golden Boost.
+
+The 5 insanity boosts are the following:
+
+Gem
+![cos gem](/docs/assets/images/cos gem.png)
+
+Kappa
+![cos kappa](/docs/assets/images/cos kappa.png)
+
+Mega
+![cos mega](/docs/assets/images/cos mega.png)
+
+PogChamp
+![cos pogchamp](/docs/assets/images/cos pogchamp.png)
+
+Madness
+![cos madness](/docs/assets/images/cos madness.png)
+
+When you have all 5 you will get 1 of each resource, 1 million gems and **5 sale points** every time your account level goes up.
+
+![claim](/docs/assets/images/claim.gif)
+
+This means that now you will have an extra 25 sale points every 5 account level which you can use for a free purchase!
+
+Depending on how much you play you can probably get at least one free purchase every month.
+
+Use the sale points on the most expensive deal you can find taht gievs you the most crypton or do what I do which is using them on buying an exclusive skin every now and then that sell for thusands of crypton on the auction house.
+
+![cos1](/docs/assets/images/cos1.png)
+
+But remember to always have 25 sale points left at the end of the month so you can keep getting the Golden Boost for free so you keep making faster progress!
+
+community.cos/Ninjabull#5100
