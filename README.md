@@ -1,4 +1,4 @@
-# Best way to start earning (only spend $1) by Ninjabull#5100
+# Best way to start earning (only spending $1) by Ninjabull#5100
 
 To get a good start in Clash of Streamers without spending a lot of money you need to understand how **sale points** work. 
 
