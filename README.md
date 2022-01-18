@@ -89,8 +89,3 @@ Use the sale points on the most expensive deal you can find taht gievs you the m
 ![cos1](/docs/assets/images/cos1.png)
 
 But remember to always have 25 sale points left at the end of the month so you can keep getting the Golden Boost for free so you keep making faster progress!
-
-
-<a href="http://community.cos/Ninjabull#5100">http://community.cos/Ninjabull#5100</a>
-
-<a href="https://community.cos/Ninjabull#5100">https://community.cos/Ninjabull#5100</a>
