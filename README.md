@@ -20,7 +20,7 @@ The first thing you want to do is to disable the use of sale points so you don't
 
 # First purchase
 
-To get started you really need to have a total of 25 sale points and since you already have 20 from tutorial you only need to get 5 more. You do this by purchasing the first deal you can find which will give you +5 sale points. 
+To get started you really need to have a total of 25 sale points and since you already have 20 from tutorial you only need to get 5 more. You do this by purchasing the first deal you can find which will give you +5 sale points. This will cost you about $1 in your local currency, in my example images this is Swedish crowns.
 
 **IMPORTANT:** Make sure you do NOT use your sale points when you purchase this deal, you do not want to waste your 20 sale points! Disable sale points like shown previously so you do not get the 80% discount.
 
@@ -90,6 +90,7 @@ Use the sale points on the most expensive deal you can find taht gievs you the m
 
 But remember to always have 25 sale points left at the end of the month so you can keep getting the Golden Boost for free so you keep making faster progress!
 
-https://community.cos/Ninjabull#5100
 
-http://community.cos/Ninjabull#5100
+<a href="http://community.cos/Ninjabull#5100">http://community.cos/Ninjabull#5100</a>
+
+<a href="https://community.cos/Ninjabull#5100">https://community.cos/Ninjabull#5100</a>
