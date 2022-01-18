@@ -11,5 +11,6 @@ During the tutorial you get a total of 20 sale points.
 Your 20 sale points will give you a 80% discount but you should **NOT** use them yet! Remember that if you have 25 sale points you get 100% which means you potentaly could get a **$100 deal for FREE** 
 
 If you are about to use your sale points you will see the precentage above the button like this
+
 ![cos80](/CoS-101/cos80.png)
 
