@@ -58,23 +58,23 @@ The 5 insanity boosts are the following:
 
 Gem
 
-![cos gem](/docs/assets/images/cos gem.png)
+![cos gem](/docs/assets/images/cos%20gem.png)
 
 Kappa
 
-![cos kappa](/docs/assets/images/cos kappa.png)
+![cos kappa](/docs/assets/images/cos%20kappa.png)
 
 Mega
 
-![cos mega](/docs/assets/images/cos mega.png)
+![cos mega](/docs/assets/images/cos%20mega.png)
 
 PogChamp
 
-![cos pogchamp](/docs/assets/images/cos pogchamp.png)
+![cos pogchamp](/docs/assets/images/cos%20pogchamp.png)
 
 Madness
 
-![cos madness](/docs/assets/images/cos madness.png)
+![cos madness](/docs/assets/images/cos%20madness.png)
 
 When you have all 5 you will get 1 of each resource, 1 million gems and **5 sale points** every time your account level goes up.
 
@@ -90,4 +90,6 @@ Use the sale points on the most expensive deal you can find taht gievs you the m
 
 But remember to always have 25 sale points left at the end of the month so you can keep getting the Golden Boost for free so you keep making faster progress!
 
-community.cos/Ninjabull#5100
+https://community.cos/Ninjabull#5100
+
+http://community.cos/Ninjabull#5100
