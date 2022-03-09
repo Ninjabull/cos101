@@ -30,15 +30,15 @@ After this purchase you should have enough sale points (25) to get a 100% discou
 
 ![cos5](/docs/assets/images/cos5.png)
 
-Now you are going to use 25 sale points to get the Golden Boost for free! You can find this by clicking on the trophy button to the left and one of the "Get more" buttons. Just hold the buy button to activate your sale points again to buy it for free.
+Now you are going to use 25 sale points to get the Golden Battle Pass for free! You can find this by clicking on the trophy button to the left and one of the "Get more" buttons. Just hold the buy button to activate your sale points again to buy it for free.
 
 ![cos7](/docs/assets/images/cos7.png)
 
 This boost gives you a lot of gems, kappa scrolls and strong heroes, which are very important for you to progress in the game AND you also get **25 sale points back!** This means that you can forever renew this boost every month for **FREE**. And don't worry about not finishing all the steps after you have bought the boost, you will still get all the sale points and most of the rewards anyway at the end of the month! And you always want to prestige when you reach the end of the boost (you will understand when you get there).
 
-# After getting the Golden Boost
+# After getting the Golden Battle Pass
 
-Now all you do is play the game normally and get more account levels. Every month remember to buy a new golden boos with the previous 25 sale points, remember to NOT use the sale points for anything else. Only the golden boost! Else you have to buy the golden boost with cash which is like $10 to get 25 new sale points.
+Now all you do is play the game normally and get more account levels. Every month remember to buy a new Golden Battle Pass with the previous 25 sale points, remember to NOT use the sale points for anything else. Only the Golden Battle Pass! Else you have to buy the Golden Battle Pass with cash which is like $10 to get 25 new sale points.
 
 **Continue to do this every month until you get close to account level 25. Then you can proceed with the next part**
 
