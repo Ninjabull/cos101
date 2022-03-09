@@ -1,6 +1,6 @@
 # Best way to start earning (only spending $1)
 
-To get a good start in Clash of Streamers without spending a lot of money you need to understand how **sale points** work. 
+To get a good start in Clash of Streamers without spending a lot of money you need to understand how **sale points** work. You should also make sure you are in my community since it will earn you more crypton (cause I'm a nice guy that sends crypton to active community members). Search for Ninjabull#5100 🥳
 
 Sale points give you a discount when you make a purchase using them. 1 sale point gives you a 4% discount so if you have 25 of them you get a **100%** discount (which means you get the deal for **FREE**). 
 
